@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+google-generativeai
+pydantic
+tiktoken
+fastapi[standard]
+python-dotenv
+kokoro>=0.3.1
+soundfile
+IPython
+transformers
+PyPDF2
+tavily-python
